@@ -16,6 +16,7 @@ body {
     background-color: #121214; 
 }
 
+
 body * {
     font-family: 'Inter', sans-serif;
     line-height: 160%;
@@ -115,7 +116,7 @@ section ul li:hover {
 .chanel-list img {
     border-radius: 50%;
     width: 70px;
-    border: 1px solid #443E54;
+    border: 1px solid #fab4fa;
 }
 
 
